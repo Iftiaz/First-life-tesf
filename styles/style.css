@@ -1,0 +1,135 @@
+* {
+    margin: 0px;
+    padding: 0%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.banner-section {
+
+    height: 680px;
+    background-image: url('../images/banner/banner1.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.First-headline {
+    font-size: 50px;
+}
+
+.primary-button {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 08px 16px;
+    border-radius: 10px;
+    border: 1px solid cyan;
+    background-color: rgb(248, 55, 55);
+}
+
+.banner-description {
+    text-align: end;
+    padding-top: 180px;
+    padding-right: 180px;
+}
+
+/* banner saction closed */
+
+.girl-img {
+    height: 600px;
+}
+
+.second-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin-top: 100px;
+}
+
+.secondImgHeading {
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.plans {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.iconImg {
+    width: 80px;
+    height: 80px;
+}
+
+.myPlans {
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.bonusSaction {
+    background-image: url('../images/gradient1.png');
+    background-repeat: no-repeat;
+
+    width: 75%;
+    margin: auto;
+    color: aliceblue;
+
+}
+
+.bonusDiv {
+
+    padding: 40px 80px;
+
+}
+
+.bonusTitle {
+    font-size: 40px;
+}
+
+.callBtn {
+    font-size: 15px;
+    padding: 10px 18px;
+    border: 0;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.fonts {
+    font-size: 30px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+
+.emailTag {
+
+    border: 1px solid white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 130px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.flexFooter {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 60px;
+
+
+}
